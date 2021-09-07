@@ -2,7 +2,7 @@
 
 namespace Timers.Common.Models
 {
-    public class Timers
+    public class Timerss
     {
         public int IdEmployee { get; set; }
         public DateTime WorkTime { get; set; }
